@@ -1,7 +1,7 @@
 body{
 font-family:Times;
 color: lawngreen;
-background-image: linear-gradient(white, rgba(69, 226, 140, 0.699))  norepeat;
+background-image: linear-gradient(white, rgba(69, 226, 140, 0.699));
 }
 
 body::-webkit-scrollbar{ 
