@@ -1,8 +1,7 @@
 body{
 font-family:Times;
-width: 100%;height: 100%;
 color: lawngreen;
-background-image: linear-gradient(white, rgba(69, 226, 140, 0.699)) no-repeat;
+background-image: linear-gradient(white, rgba(69, 226, 140, 0.699))  norepeat;
 }
 
 body::-webkit-scrollbar{ 
